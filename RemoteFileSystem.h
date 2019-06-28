@@ -3,7 +3,7 @@
 //
 // Client-side remote (network) filesystem
 //
-// Author: Morris Bernstein
+// Skeleton provided by: Morris Bernstein
 // Copyright 2019, Systems Deployment, LLC.
 //
 // Modified by: Ian McDermott
